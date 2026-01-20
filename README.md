@@ -1,8 +1,9 @@
 # Employee Management System (Core Java)
 
-A console-based Employee Management System built using Core Java to demonstrate
-object-oriented programming concepts such as inheritance, polymorphism, method
-overriding, and clean layered architecture.
+A Core Java demo application designed to showcase object-oriented programming
+concepts such as inheritance, polymorphism, method overriding, and clean layered
+architecture. The application demonstrates employee salary calculations using
+runtime polymorphism without interactive user input.
 
 ## Features
 - Add employees (Full-Time and Contract)
@@ -36,6 +37,9 @@ Employee ID: 1, Name: Sai, Salary: 60000.0
 Employee ID: 2, Name: Raj, Salary: 48000.0
 
 ## Future Enhancements
+- Add Scanner
+- Add menu
+- Convert it into a true console app
 - Java Streams & Lambda refactor
 - File persistence
 - Spring Boot REST API version
